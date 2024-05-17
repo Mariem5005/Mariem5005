@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mariem
 - 👀 I’m an aspiring software engineer 
-- 🌱 I’m currently learning ASP.NET + ReactJS
+- 🌱 I’m currently learning spring boot
 - 💞️ I’m looking to collaborate on full-stack projects
 - 📫 How to reach me on LinkedIn https://www.linkedin.com/in/mariem-ahmed-37614820b/
 - 😄 Pronouns: She/her
